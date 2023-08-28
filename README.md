@@ -2,5 +2,5 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/KGF-420?color=red) ![](https://komarev.com/ghpvc/?username=KGF-420&color=blue&label=Profile+Views)
 
-*[GitHub Profile Views Counter](https://github.com/visionmedia/github-profile-views-counter) and [Shields.io]
+*[GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter) and [Shields.io]
 
